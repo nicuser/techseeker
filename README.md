@@ -1,4 +1,5 @@
 # techseeker
-sample demo applications
 
-story1 done
+* Require maven to run the project *
+
+* mvn clean install
