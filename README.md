@@ -1,5 +1,14 @@
 # techseeker
 
-* Require maven to run the project *
+## This project includes samples for below java concepts
 
-* mvn clean install
+* JAXB (XML/XSD)
+* JAX-WS (WSDL)
+* JMS (ActiveMQ)
+* JAX-RS (REST/JSON)
+* Java utilities (StringTokenizer, List, Sorting)
+* JDBC (H2)
+
+## Executing the samples
+
+* Require maven
