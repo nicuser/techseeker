@@ -2,9 +2,9 @@
 
 ## Execute Sample
 
-1 execute edu.techseekers.training.server.HelloWorldPublisher.java
+* execute edu.techseekers.training.server.HelloWorldPublisher.java
 
-2 execute edu.techseekers.training.client.HelloWorldClient.java
+* execute edu.techseekers.training.client.HelloWorldClient.java
 
 ### References
 
