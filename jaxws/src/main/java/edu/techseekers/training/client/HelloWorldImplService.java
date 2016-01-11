@@ -25,14 +25,14 @@ import javax.xml.ws.WebServiceFeature;
  * Generated source version: 2.2
  * 
  */
-@WebServiceClient(name = "HelloWorldImplService", targetNamespace = "http://server.training.convergent.edu/", wsdlLocation = "http://localhost:9992/ws/hello?wsdl")
+@WebServiceClient(name = "HelloWorldImplService", targetNamespace = "http://server.training.techseekers.edu/", wsdlLocation = "http://localhost:9992/ws/hello?wsdl")
 public class HelloWorldImplService
     extends Service
 {
 
     private final static URL HELLOWORLDIMPLSERVICE_WSDL_LOCATION;
     private final static WebServiceException HELLOWORLDIMPLSERVICE_EXCEPTION;
-    private final static QName HELLOWORLDIMPLSERVICE_QNAME = new QName("http://server.training.convergent.edu/", "HelloWorldImplService");
+    private final static QName HELLOWORLDIMPLSERVICE_QNAME = new QName("http://server.training.techseekers.edu/", "HelloWorldImplService");
 
     static {
         URL url = null;
@@ -77,7 +77,7 @@ public class HelloWorldImplService
      */
     @WebEndpoint(name = "HelloWorldImplPort")
     public HelloWorldTest getHelloWorldImplPort() {
-        return super.getPort(new QName("http://server.training.convergent.edu/", "HelloWorldImplPort"), HelloWorldTest.class);
+        return super.getPort(new QName("http://server.training.techseekers.edu/", "HelloWorldImplPort"), HelloWorldTest.class);
     }
 
     /**
@@ -89,7 +89,7 @@ public class HelloWorldImplService
      */
     @WebEndpoint(name = "HelloWorldImplPort")
     public HelloWorldTest getHelloWorldImplPort(WebServiceFeature... features) {
-        return super.getPort(new QName("http://server.training.convergent.edu/", "HelloWorldImplPort"), HelloWorldTest.class, features);
+        return super.getPort(new QName("http://server.training.techseekers.edu/", "HelloWorldImplPort"), HelloWorldTest.class, features);
     }
 
     private static URL __getWsdlLocation() {

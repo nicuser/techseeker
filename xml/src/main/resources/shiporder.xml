@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<shiporder orderid="orderId">
+    <orderperson>abc</orderperson>
+    <shipto>
+        <name>name</name>
+        <address>address</address>
+        <city>city</city>
+        <country>country</country>
+    </shipto>
+    <item>
+        <title>item Title</title>
+        <note>note</note>
+        <quantity>1</quantity>
+        <price>1</price>
+    </item>
+</shiporder>

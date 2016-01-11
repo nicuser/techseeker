@@ -12,7 +12,7 @@ package edu.techseekers.training.server;
 import javax.jws.WebService;
  
 //Service Implementation
-@WebService(endpointInterface = "edu.convergent.training.server.HelloWorldTest")
+@WebService(endpointInterface = "edu.techseekers.training.server.HelloWorldTest")
 public class HelloWorldImpl implements HelloWorldTest {
  
 	@Override

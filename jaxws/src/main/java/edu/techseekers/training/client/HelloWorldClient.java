@@ -20,7 +20,7 @@ public class HelloWorldClient {
 	public static void main(String[] args) throws Exception {
 	HelloWorldImplService service = new HelloWorldImplService();
         HelloWorldTest test = service.getHelloWorldImplPort();
-        System.out.println(test.getHelloWorldAsString("ABC"));
+        System.out.println(test.getHelloWorldAsString("JAXWS service"));
 
     }
 }

@@ -1,0 +1,14 @@
+{
+    "type": "object",
+    "properties": {
+        "line1": {
+            "type": "string"
+        },
+        "city": {
+            "type": "string"
+        },
+        "state": {
+            "type": "string"
+        }
+    }
+}
