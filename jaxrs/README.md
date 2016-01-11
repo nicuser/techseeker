@@ -2,9 +2,9 @@
 
 ## Execute REST Demo
 
-1 execute edu.techseekers.training.server.Server.java
-    1 go to browser and access http://localhost:9000/customerservice/customers/123
-2 execute edu.techseekers.training.client.Client.java
+* execute edu.techseekers.training.server.Server.java
+    * go to browser and access http://localhost:9000/customerservice/customers/123
+* execute edu.techseekers.training.client.Client.java
 
 
 ### References
