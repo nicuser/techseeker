@@ -1,6 +1,6 @@
 # Retrieve data from mysql and expose WSDL and REST service
 
-## This use case covers below Java concepts
+## This use case covers
 
 * JAXB
 * JAX-WS
