@@ -13,6 +13,7 @@
         <module>jms</module>
         <module>xml</module>
         <module>json</module>
+        <module>usecase</module>
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
