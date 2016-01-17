@@ -15,6 +15,9 @@ import java.util.logging.Logger;
  *
  * @author myhome
  */
+
+//TODO: Closing the JDBC connection
+
 public class DBManager {
 
     private Connection dbConnection;

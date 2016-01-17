@@ -1,7 +1,5 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * This is not the good practice to publish the service; this is only for demo purpose
  */
 package edu.techseekers.training.usecase;
 
@@ -14,6 +12,7 @@ import javax.xml.ws.Endpoint;
  */
 public class WsdlServicePublisher {
     public static void main(String[] args) {
-	   Endpoint.publish("http://localhost:9999/ws/hello", new EmployeeServiceImpl());
+        //This is not the good practice to publish the service; this is only for demo purpose
+	Endpoint.publish("http://localhost:9999/ws/hello", new EmployeeServiceImpl());
     }
 }
