@@ -9,4 +9,6 @@
 
 ### References
 
-1 http://www.ibm.com/developerworks/library/ws-restful/
+* http://www.ibm.com/developerworks/library/ws-restful/
+* http://www.restapitutorial.com/
+* http://rest.elkstein.org/
