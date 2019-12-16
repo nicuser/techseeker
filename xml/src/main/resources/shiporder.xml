@@ -13,4 +13,10 @@
         <quantity>1</quantity>
         <price>1</price>
     </item>
+    <item>
+        <title>item2 Title</title>
+        <note>note2</note>
+        <quantity>2</quantity>
+        <price>2</price>
+    </item>
 </shiporder>
